@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+    <medicion>
+        <temperatura>22.5</temperatura>
+        <humedad>60.0</humedad>
+    </medicion>
+    <medicion>
+        <temperatura>23.1</temperatura>
+        <humedad>58.5</humedad>
+    </medicion>
+    <medicion>
+        <temperatura>21.8</temperatura>
+        <humedad>62.1</humedad>
+    </medicion>
+    <medicion>
+        <temperatura>24.0</temperatura>
+        <humedad>55.0</humedad>
+    </medicion>
+</registro>
