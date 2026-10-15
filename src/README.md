@@ -1,4 +1,4 @@
-1. Lógica interna del código
+
 
 Validación inicial: Verifica que al ejecutar el programa se haya proveído el nombre del archivo y al menos una variable. Si falta información o el archivo no existe, detiene la ejecución para evitar fallos del sistema.
 
